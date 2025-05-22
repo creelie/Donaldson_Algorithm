@@ -1,0 +1,5 @@
+In the Ricci_Flat .py file, it gives the Ricci-flat convergence in degree 5 Quintic CY.
+
+In the mirror_quintic_Ricci_flat .py file, it gives the mirror quintic of the hypersurfaces (CY manifold).
+
+In the generalized-hypersurfaces .py file, it gives the higher degree (by adjusting 'd' to any values of 6,7,8,9,10.... where d=5 is a calabi Yau) showing the Ricci Flat convergence of the hypersurfaces.
